@@ -37,6 +37,7 @@ class SeleniumDriver():
         try:
             locatorType = locatorType.lower()
             byType = self.getByType(locatorType)
+            print(byType,locator)
             element = self.driver.find_element(byType, locator)
             self.log.info("Element Found")
         except:
@@ -52,11 +53,27 @@ class SeleniumDriver():
             self.log.info("Cannot click on the element with locator: " + locator + " locatorType: " + locatorType)
             print_stack()
 
+    def selectFirstItemOfDropDown(self,locator,listLocator,locatorType="id"):
+        self.elementClick(locator,locatorType='xpath')
+        # Wait for the dropdown options to appear (adjust timeout as needed)
+        wait = WebDriverWait(self.driver, 10)
+        dropdown_options = wait.until(EC.visibility_of_all_elements_located((By.XPATH, listLocator)))
+        print(len(dropdown_options))
+        dropdown_options[0].click()
+        # i = True
+        # for option in dropdown_options:
+        #     if i:
+        #         print('clicking')
+        #         option.click()
+        #         break
+        
+
     def sendKeys(self, data, locator, locatorType="id"):
         try:
             element = self.getElement(locator, locatorType)
             element.send_keys(data)
             self.log.info("Sent data on element with locator: " + locator + " locatorType: " + locatorType)
+            return element
         except:
             self.log.info("Cannot send data on the element with locator: " + locator + " locatorType: " + locatorType)
             print_stack()
@@ -99,9 +116,13 @@ class SeleniumDriver():
                                                      ElementNotVisibleException,
                                                      ElementNotSelectableException])
             element = wait.until(EC.element_to_be_clickable((byType,
-                                                             "stopFilter_stops-0")))
+                                                             locator)))
             self.log.info("Element appeared on the web page")
         except:
             self.log.info("Element not appeared on the web page")
             print_stack()
         return element
+    
+    """Local storage functions"""
+    def getFromLocalStorage(self, key):
+        return self.driver.execute_script("return window.localStorage.getItem(arguments[0]);", key)
