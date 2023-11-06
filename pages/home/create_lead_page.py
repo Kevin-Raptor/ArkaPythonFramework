@@ -39,7 +39,7 @@ class CreateLeadPage(SeleniumDriver):
 
     x_path_close_date="//input[@placeholder='Select Date']"
     x_path_close_date_forward_button="//button[@aria-label='Next Month']"
-    x_path_close_date_item="//span[normalize-space()='16']"
+    x_path_close_date_item="//body[1]/div[9]/div[1]/div[1]/div[2]/table[1]/tbody[1]/tr[3]/td[3]/div[1]/span[1]"
 
     x_path_deal_value="//input[@placeholder='Enter potential deal value']"
 
@@ -54,21 +54,26 @@ class CreateLeadPage(SeleniumDriver):
     def createLead(self):
 
         self.selectFirstItemOfDropDown(self.x_path_tag_select,self.x_path_tag_select_item,locatorType="xpath")
-        time.sleep(2)
+        time.sleep(1)
+        self.elementClick(self.x_path_close_date,locatorType="xpath")
+        self.elementClick(self.x_path_close_date_forward_button,locatorType="xpath")
+        self.elementClick(self.x_path_close_date_item,locatorType="xpath")
+        time.sleep(1)
 
-        self.sendKeys('Autobots2', self.x_path_name_input, locatorType="xpath")
+
+        self.sendKeys('Autobots4', self.x_path_name_input, locatorType="xpath")
         self.sendKeys('auto1@bots.com', self.x_path_email_input, locatorType="xpath")
         self.sendKeys('8310992030', self.x_path_phone_number_input, locatorType="xpath")
-        self.sendKeys('98', self.x_path_probability_input, locatorType="xpath")
+        # self.sendKeys('98', self.x_path_probability_input, locatorType="xpath")
         self.selectFirstItemOfDropDown(self.x_path_owner_select,self.x_path_owner_select_list,locatorType="xpath")
         time.sleep(0.5)
         self.selectFirstItemOfDropDown(self.x_path_property_type_select,self.x_path_property_type_select_list,locatorType="xpath")
         time.sleep(0.5)
         self.selectFirstItemOfDropDown(self.x_path_lead_source_select,self.x_path_lead_source_select_list,locatorType="xpath")
         time.sleep(0.5)
-        self.selectFirstItemOfDropDown(self.x_path_pipeline_select,self.x_path_pipeline_select_list,locatorType="xpath")
+        self.selectFirstItemOfDropDown(self.x_path_pipeline_select,self.x_path_pipeline_select_list,locatorType="xpath",index=1)
         time.sleep(0.5)
-        self.selectFirstItemOfDropDown(self.x_path_stage_select,self.x_path_stage_select_list,locatorType="xpath")   
+        self.selectFirstItemOfDropDown(self.x_path_stage_select,self.x_path_stage_select_list,locatorType="xpath",index=4)   
         
         # time.sleep(0.5)
         # self.selectFirstItemOfDropDown(self.x_path_region_select,self.x_path_region_select_list,locatorType="xpath")
@@ -76,39 +81,19 @@ class CreateLeadPage(SeleniumDriver):
         self.sendKeys('1111',self.x_path_map_select,locatorType="xpath")
         self.selectFirstItemOfDropDown(self.x_path_map_select,self.x_path_map_select_list,locatorType="xpath")
 
-
-        # self.sendKeys('2023-11-11',self.x_path_close_date,locatorType="xpath")
-        # self.elementClick(self.x_path_close_date,locatorType="xpath")
-        # time.sleep(2)
-        # self.elementClick(self.x_path_close_date_forward_button,locatorType="xpath")
-
-        # input_field = self.driver.find_elements(By.CLASS_NAME, "available")
-        # print(len(input_field))
-        # input_field[len(input_field)-1].click()
-
-       
-
-        # self.elementClick(self.x_path_tag_select_item,locatorType="xpath")
-        # items = self.driver.find_elements(By.CLASS_NAME,'available')
-        # print(len(items))
-        # items.click()
-        # type=self.getByType(locatorType)
-        # print(items)
+        self.sendKeys('0',self.x_path_deal_value,locatorType="xpath")
 
 
-        # self.selectFirstItemOfDropDown(self.x_path_tag_select,self.x_path_tag_select_item,locatorType="xpath")
-        # time.sleep(0.5)
 
-        self.sendKeys('20000',self.x_path_deal_value,locatorType="xpath")
-        
+      
+      
 
         
         self.elementClick(self.x_path_create_button,locatorType='xpath')
 
-        time.sleep(20)
+        time.sleep(10)
 
 
-        # owner_select.send_keys(" and some", Keys.ARROW_DOWN)
       
 
 

@@ -53,19 +53,14 @@ class SeleniumDriver():
             self.log.info("Cannot click on the element with locator: " + locator + " locatorType: " + locatorType)
             print_stack()
 
-    def selectFirstItemOfDropDown(self,locator,listLocator,locatorType="id"):
+    def selectFirstItemOfDropDown(self,locator,listLocator,locatorType="id",index=0):
         self.elementClick(locator,locatorType='xpath')
         # Wait for the dropdown options to appear (adjust timeout as needed)
         wait = WebDriverWait(self.driver, 10)
         dropdown_options = wait.until(EC.visibility_of_all_elements_located((By.XPATH, listLocator)))
         print(len(dropdown_options))
-        dropdown_options[0].click()
-        # i = True
-        # for option in dropdown_options:
-        #     if i:
-        #         print('clicking')
-        #         option.click()
-        #         break
+        dropdown_options[index].click()
+     
         
 
     def sendKeys(self, data, locator, locatorType="id"):

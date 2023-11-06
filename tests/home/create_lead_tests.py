@@ -25,6 +25,13 @@ class LeadUserCreation(unittest.TestCase):
         create_lead_page= CreateLeadPage(driver)
         create_lead_page.createLead()
 
+    # def test_simply_run(self):
+    #     print('self rannn')
+
+    # @skip_if_running_logally
+    # def test_simply_run(self):
+    #     print('self rannn')
+
 
     
 
