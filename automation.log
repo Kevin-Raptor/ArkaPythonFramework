@@ -3558,3 +3558,627 @@
 11/06/2023 12:31:36 PM - SeleniumDriver - INFO: Sent data on element with locator: //input[@placeholder='Enter potential deal value'] locatorType: xpath
 11/06/2023 12:31:36 PM - SeleniumDriver - INFO: Element Found
 11/06/2023 12:31:36 PM - SeleniumDriver - INFO: Clicked on element with locator: //button[@class='el-button leadBtn el-button--primary'] locatorType: xpath
+11/06/2023 04:53:53 PM - SeleniumDriver - INFO: Element Found
+11/06/2023 04:53:53 PM - SeleniumDriver - INFO: Sent data on element with locator: //input[@placeholder='Email Id'] locatorType: xpath
+11/06/2023 04:53:53 PM - SeleniumDriver - INFO: Element Found
+11/06/2023 04:53:53 PM - SeleniumDriver - INFO: Sent data on element with locator: //input[@placeholder='Password'] locatorType: xpath
+11/06/2023 04:53:53 PM - SeleniumDriver - INFO: Element Found
+11/06/2023 04:53:54 PM - SeleniumDriver - INFO: Clicked on element with locator: //div[@class='button'][normalize-space()='Login'] locatorType: xpath
+11/06/2023 04:54:35 PM - SeleniumDriver - INFO: Element Found
+11/06/2023 04:54:35 PM - SeleniumDriver - INFO: Sent data on element with locator: //input[@placeholder='Email Id'] locatorType: xpath
+11/06/2023 04:54:35 PM - SeleniumDriver - INFO: Element Found
+11/06/2023 04:54:35 PM - SeleniumDriver - INFO: Sent data on element with locator: //input[@placeholder='Password'] locatorType: xpath
+11/06/2023 04:54:35 PM - SeleniumDriver - INFO: Element Found
+11/06/2023 04:54:36 PM - SeleniumDriver - INFO: Clicked on element with locator: //div[@class='button'][normalize-space()='Login'] locatorType: xpath
+11/06/2023 05:11:43 PM - SeleniumDriver - INFO: Element Found
+11/06/2023 05:11:43 PM - SeleniumDriver - INFO: Sent data on element with locator: //input[@placeholder='Email Id'] locatorType: xpath
+11/06/2023 05:11:43 PM - SeleniumDriver - INFO: Element Found
+11/06/2023 05:11:43 PM - SeleniumDriver - INFO: Sent data on element with locator: //input[@placeholder='Password'] locatorType: xpath
+11/06/2023 05:11:43 PM - SeleniumDriver - INFO: Element Found
+11/06/2023 05:11:44 PM - SeleniumDriver - INFO: Clicked on element with locator: //div[@class='button'][normalize-space()='Login'] locatorType: xpath
+11/06/2023 05:12:47 PM - SeleniumDriver - INFO: Element Found
+11/06/2023 05:12:47 PM - SeleniumDriver - INFO: Sent data on element with locator: //input[@placeholder='Email Id'] locatorType: xpath
+11/06/2023 05:12:47 PM - SeleniumDriver - INFO: Element Found
+11/06/2023 05:12:47 PM - SeleniumDriver - INFO: Sent data on element with locator: //input[@placeholder='Password'] locatorType: xpath
+11/06/2023 05:12:47 PM - SeleniumDriver - INFO: Element Found
+11/06/2023 05:12:47 PM - SeleniumDriver - INFO: Clicked on element with locator: //div[@class='button'][normalize-space()='Login'] locatorType: xpath
+11/06/2023 05:15:00 PM - SeleniumDriver - INFO: Element Found
+11/06/2023 05:15:00 PM - SeleniumDriver - INFO: Sent data on element with locator: //input[@placeholder='Email Id'] locatorType: xpath
+11/06/2023 05:15:00 PM - SeleniumDriver - INFO: Element Found
+11/06/2023 05:15:00 PM - SeleniumDriver - INFO: Sent data on element with locator: //input[@placeholder='Password'] locatorType: xpath
+11/06/2023 05:15:00 PM - SeleniumDriver - INFO: Element Found
+11/06/2023 05:15:00 PM - SeleniumDriver - INFO: Clicked on element with locator: //div[@class='button'][normalize-space()='Login'] locatorType: xpath
+11/06/2023 05:16:15 PM - SeleniumDriver - INFO: Element Found
+11/06/2023 05:16:15 PM - SeleniumDriver - INFO: Sent data on element with locator: //input[@placeholder='Email Id'] locatorType: xpath
+11/06/2023 05:16:15 PM - SeleniumDriver - INFO: Element Found
+11/06/2023 05:16:15 PM - SeleniumDriver - INFO: Sent data on element with locator: //input[@placeholder='Password'] locatorType: xpath
+11/06/2023 05:16:15 PM - SeleniumDriver - INFO: Element Found
+11/06/2023 05:16:15 PM - SeleniumDriver - INFO: Clicked on element with locator: //div[@class='button'][normalize-space()='Login'] locatorType: xpath
+11/06/2023 05:16:18 PM - SeleniumDriver - INFO: Element Found
+11/06/2023 05:16:18 PM - SeleniumDriver - INFO: Clicked on element with locator: //a[@href='/leadmanagement'] locatorType: xpath
+11/06/2023 05:16:18 PM - SeleniumDriver - INFO: Element Found
+11/06/2023 05:16:18 PM - SeleniumDriver - INFO: Clicked on element with locator: //span[normalize-space()='Create Lead'] locatorType: xpath
+11/06/2023 05:16:18 PM - SeleniumDriver - INFO: Element Found
+11/06/2023 05:16:18 PM - SeleniumDriver - INFO: Clicked on element with locator: //button[@class='el-button el-button--default fixButton0'] locatorType: xpath
+11/06/2023 05:16:20 PM - SeleniumDriver - INFO: Element Found
+11/06/2023 05:16:20 PM - SeleniumDriver - INFO: Clicked on element with locator: //input[@placeholder='Select Date'] locatorType: xpath
+11/06/2023 05:16:20 PM - SeleniumDriver - INFO: Element Found
+11/06/2023 05:16:20 PM - SeleniumDriver - INFO: Clicked on element with locator: //button[@aria-label='Next Month'] locatorType: xpath
+11/06/2023 05:16:20 PM - SeleniumDriver - INFO: Element Found
+11/06/2023 05:16:20 PM - SeleniumDriver - INFO: Clicked on element with locator: //body[1]/div[9]/div[1]/div[1]/div[2]/table[1]/tbody[1]/tr[3]/td[3]/div[1]/span[1] locatorType: xpath
+11/06/2023 05:16:21 PM - SeleniumDriver - INFO: Element Found
+11/06/2023 05:16:21 PM - SeleniumDriver - INFO: Sent data on element with locator: //input[@placeholder='Enter Name'] locatorType: xpath
+11/06/2023 05:16:21 PM - SeleniumDriver - INFO: Element Found
+11/06/2023 05:16:21 PM - SeleniumDriver - INFO: Sent data on element with locator: //input[@placeholder='Enter Email ID'] locatorType: xpath
+11/06/2023 05:16:21 PM - SeleniumDriver - INFO: Element Found
+11/06/2023 05:16:21 PM - SeleniumDriver - INFO: Sent data on element with locator: //input[@placeholder='Enter phone number'] locatorType: xpath
+11/06/2023 05:16:21 PM - SeleniumDriver - INFO: Element Found
+11/06/2023 05:16:21 PM - SeleniumDriver - INFO: Clicked on element with locator: //input[@placeholder='Select an Owner'] locatorType: xpath
+11/06/2023 05:16:22 PM - SeleniumDriver - INFO: Element Found
+11/06/2023 05:16:22 PM - SeleniumDriver - INFO: Clicked on element with locator: //input[@placeholder='Select a property type'] locatorType: xpath
+11/06/2023 05:16:23 PM - SeleniumDriver - INFO: Element Found
+11/06/2023 05:16:23 PM - SeleniumDriver - INFO: Clicked on element with locator: //input[@placeholder='Select a lead source type'] locatorType: xpath
+11/06/2023 05:16:24 PM - SeleniumDriver - INFO: Element Found
+11/06/2023 05:16:24 PM - SeleniumDriver - INFO: Clicked on element with locator: //input[@placeholder='Select a Pipeline'] locatorType: xpath
+11/06/2023 05:16:24 PM - SeleniumDriver - INFO: Element Found
+11/06/2023 05:16:24 PM - SeleniumDriver - INFO: Clicked on element with locator: //input[@placeholder='Select a Stage'] locatorType: xpath
+11/06/2023 05:16:25 PM - SeleniumDriver - INFO: Element Found
+11/06/2023 05:16:25 PM - SeleniumDriver - INFO: Sent data on element with locator: //input[@placeholder='Enter the property address'] locatorType: xpath
+11/06/2023 05:16:25 PM - SeleniumDriver - INFO: Element Found
+11/06/2023 05:16:25 PM - SeleniumDriver - INFO: Clicked on element with locator: //input[@placeholder='Enter the property address'] locatorType: xpath
+11/06/2023 05:16:25 PM - SeleniumDriver - INFO: Element Found
+11/06/2023 05:16:25 PM - SeleniumDriver - INFO: Sent data on element with locator: //input[@placeholder='Enter potential deal value'] locatorType: xpath
+11/06/2023 05:16:26 PM - SeleniumDriver - INFO: Element Found
+11/06/2023 05:16:26 PM - SeleniumDriver - INFO: Clicked on element with locator: //button[@class='el-button leadBtn el-button--primary'] locatorType: xpath
+11/06/2023 05:16:50 PM - SeleniumDriver - INFO: Element Found
+11/06/2023 05:16:50 PM - SeleniumDriver - INFO: Sent data on element with locator: //input[@placeholder='Email Id'] locatorType: xpath
+11/06/2023 05:16:50 PM - SeleniumDriver - INFO: Element Found
+11/06/2023 05:16:50 PM - SeleniumDriver - INFO: Sent data on element with locator: //input[@placeholder='Password'] locatorType: xpath
+11/06/2023 05:16:50 PM - SeleniumDriver - INFO: Element Found
+11/06/2023 05:16:50 PM - SeleniumDriver - INFO: Clicked on element with locator: //div[@class='button'][normalize-space()='Login'] locatorType: xpath
+11/06/2023 05:22:00 PM - SeleniumDriver - INFO: Element Found
+11/06/2023 05:22:00 PM - SeleniumDriver - INFO: Sent data on element with locator: //input[@placeholder='Email Id'] locatorType: xpath
+11/06/2023 05:22:00 PM - SeleniumDriver - INFO: Element Found
+11/06/2023 05:22:01 PM - SeleniumDriver - INFO: Sent data on element with locator: //input[@placeholder='Password'] locatorType: xpath
+11/06/2023 05:22:01 PM - SeleniumDriver - INFO: Element Found
+11/06/2023 05:22:01 PM - SeleniumDriver - INFO: Clicked on element with locator: //div[@class='button'][normalize-space()='Login'] locatorType: xpath
+11/06/2023 05:22:38 PM - SeleniumDriver - INFO: Element Found
+11/06/2023 05:22:38 PM - SeleniumDriver - INFO: Sent data on element with locator: //input[@placeholder='Email Id'] locatorType: xpath
+11/06/2023 05:22:38 PM - SeleniumDriver - INFO: Element Found
+11/06/2023 05:22:38 PM - SeleniumDriver - INFO: Sent data on element with locator: //input[@placeholder='Password'] locatorType: xpath
+11/06/2023 05:22:38 PM - SeleniumDriver - INFO: Element Found
+11/06/2023 05:22:38 PM - SeleniumDriver - INFO: Clicked on element with locator: //div[@class='button'][normalize-space()='Login'] locatorType: xpath
+11/06/2023 05:24:06 PM - SeleniumDriver - INFO: Element Found
+11/06/2023 05:24:06 PM - SeleniumDriver - INFO: Sent data on element with locator: //input[@placeholder='Email Id'] locatorType: xpath
+11/06/2023 05:24:06 PM - SeleniumDriver - INFO: Element Found
+11/06/2023 05:24:06 PM - SeleniumDriver - INFO: Sent data on element with locator: //input[@placeholder='Password'] locatorType: xpath
+11/06/2023 05:24:06 PM - SeleniumDriver - INFO: Element Found
+11/06/2023 05:24:06 PM - SeleniumDriver - INFO: Clicked on element with locator: //div[@class='button'][normalize-space()='Login'] locatorType: xpath
+11/06/2023 05:24:08 PM - SeleniumDriver - INFO: Element Found
+11/06/2023 05:24:08 PM - SeleniumDriver - INFO: Clicked on element with locator: //li[@id='sublistOne']//a[@href='#'] locatorType: xpath
+11/06/2023 05:24:08 PM - SeleniumDriver - INFO: Element Found
+11/06/2023 05:24:08 PM - SeleniumDriver - INFO: Clicked on element with locator: //a[normalize-space()='- Pipelines'] locatorType: xpath
+11/06/2023 05:32:33 PM - SeleniumDriver - INFO: Element Found
+11/06/2023 05:32:33 PM - SeleniumDriver - INFO: Sent data on element with locator: //input[@placeholder='Email Id'] locatorType: xpath
+11/06/2023 05:32:33 PM - SeleniumDriver - INFO: Element Found
+11/06/2023 05:32:33 PM - SeleniumDriver - INFO: Sent data on element with locator: //input[@placeholder='Password'] locatorType: xpath
+11/06/2023 05:32:33 PM - SeleniumDriver - INFO: Element Found
+11/06/2023 05:32:33 PM - SeleniumDriver - INFO: Clicked on element with locator: //div[@class='button'][normalize-space()='Login'] locatorType: xpath
+11/06/2023 05:32:35 PM - SeleniumDriver - INFO: Element Found
+11/06/2023 05:32:35 PM - SeleniumDriver - INFO: Clicked on element with locator: //li[@id='sublistOne']//a[@href='#'] locatorType: xpath
+11/06/2023 05:32:35 PM - SeleniumDriver - INFO: Element Found
+11/06/2023 05:32:35 PM - SeleniumDriver - INFO: Clicked on element with locator: //a[normalize-space()='- Pipelines'] locatorType: xpath
+11/06/2023 05:32:36 PM - SeleniumDriver - INFO: Element Found
+11/06/2023 05:32:36 PM - SeleniumDriver - INFO: Clicked on element with locator: //body/div[@id='app']/div[@id='leadManagement']/div[@id='container']/section[@class='right_section containerCRM']/div[@class='content_section']/section/div[@id='scroll-bar']/div[@class='cardDetails']/div[@class='cardDetails-inner']/div[4]/div[1] locatorType: xpath
+11/06/2023 05:35:01 PM - SeleniumDriver - INFO: Element Found
+11/06/2023 05:35:01 PM - SeleniumDriver - INFO: Sent data on element with locator: //input[@placeholder='Email Id'] locatorType: xpath
+11/06/2023 05:35:01 PM - SeleniumDriver - INFO: Element Found
+11/06/2023 05:35:01 PM - SeleniumDriver - INFO: Sent data on element with locator: //input[@placeholder='Password'] locatorType: xpath
+11/06/2023 05:35:01 PM - SeleniumDriver - INFO: Element Found
+11/06/2023 05:35:01 PM - SeleniumDriver - INFO: Clicked on element with locator: //div[@class='button'][normalize-space()='Login'] locatorType: xpath
+11/06/2023 05:35:03 PM - SeleniumDriver - INFO: Element Found
+11/06/2023 05:35:03 PM - SeleniumDriver - INFO: Clicked on element with locator: //li[@id='sublistOne']//a[@href='#'] locatorType: xpath
+11/06/2023 05:35:03 PM - SeleniumDriver - INFO: Element Found
+11/06/2023 05:35:03 PM - SeleniumDriver - INFO: Clicked on element with locator: //a[normalize-space()='- Pipelines'] locatorType: xpath
+11/06/2023 05:35:04 PM - SeleniumDriver - INFO: Element Found
+11/06/2023 05:35:04 PM - SeleniumDriver - INFO: Clicked on element with locator: //body/div[@id='app']/div[@id='leadManagement']/div[@id='container']/section[@class='right_section containerCRM']/div[@class='content_section']/section/div[@id='scroll-bar']/div[@class='cardDetails']/div[@class='cardDetails-inner']/div[4]/div[1]//*[name()='svg'] locatorType: xpath
+11/06/2023 05:37:26 PM - SeleniumDriver - INFO: Element Found
+11/06/2023 05:37:26 PM - SeleniumDriver - INFO: Sent data on element with locator: //input[@placeholder='Email Id'] locatorType: xpath
+11/06/2023 05:37:26 PM - SeleniumDriver - INFO: Element Found
+11/06/2023 05:37:26 PM - SeleniumDriver - INFO: Sent data on element with locator: //input[@placeholder='Password'] locatorType: xpath
+11/06/2023 05:37:26 PM - SeleniumDriver - INFO: Element Found
+11/06/2023 05:37:26 PM - SeleniumDriver - INFO: Clicked on element with locator: //div[@class='button'][normalize-space()='Login'] locatorType: xpath
+11/06/2023 05:37:28 PM - SeleniumDriver - INFO: Element Found
+11/06/2023 05:37:28 PM - SeleniumDriver - INFO: Clicked on element with locator: //li[@id='sublistOne']//a[@href='#'] locatorType: xpath
+11/06/2023 05:37:28 PM - SeleniumDriver - INFO: Element Found
+11/06/2023 05:37:28 PM - SeleniumDriver - INFO: Clicked on element with locator: //a[normalize-space()='- Pipelines'] locatorType: xpath
+11/06/2023 05:37:28 PM - SeleniumDriver - INFO: Element Found
+11/06/2023 05:37:28 PM - SeleniumDriver - INFO: Clicked on element with locator: //body/div[@id='app']/div[@id='leadManagement']/div[@id='container']/section[@class='right_section containerCRM']/div[@class='content_section']/section/div[@id='scroll-bar']/div[@class='cardDetails']/div[@class='cardDetails-inner']/div[4]/div[1]//*[name()='svg'] locatorType: xpath
+11/06/2023 05:37:28 PM - SeleniumDriver - INFO: Element Found
+11/06/2023 05:37:29 PM - SeleniumDriver - INFO: Clicked on element with locator: //button[@class='el-button el-button--primary'] locatorType: xpath
+11/06/2023 05:39:21 PM - SeleniumDriver - INFO: Element Found
+11/06/2023 05:39:21 PM - SeleniumDriver - INFO: Sent data on element with locator: //input[@placeholder='Email Id'] locatorType: xpath
+11/06/2023 05:39:21 PM - SeleniumDriver - INFO: Element Found
+11/06/2023 05:39:22 PM - SeleniumDriver - INFO: Sent data on element with locator: //input[@placeholder='Password'] locatorType: xpath
+11/06/2023 05:39:22 PM - SeleniumDriver - INFO: Element Found
+11/06/2023 05:39:22 PM - SeleniumDriver - INFO: Clicked on element with locator: //div[@class='button'][normalize-space()='Login'] locatorType: xpath
+11/06/2023 05:39:24 PM - SeleniumDriver - INFO: Element Found
+11/06/2023 05:39:24 PM - SeleniumDriver - INFO: Clicked on element with locator: //li[@id='sublistOne']//a[@href='#'] locatorType: xpath
+11/06/2023 05:39:24 PM - SeleniumDriver - INFO: Element Found
+11/06/2023 05:39:24 PM - SeleniumDriver - INFO: Clicked on element with locator: //a[normalize-space()='- Pipelines'] locatorType: xpath
+11/06/2023 05:39:25 PM - SeleniumDriver - INFO: Element Found
+11/06/2023 05:39:26 PM - SeleniumDriver - INFO: Clicked on element with locator: //body/div[@id='app']/div[@id='leadManagement']/div[@id='container']/section[@class='right_section containerCRM']/div[@class='content_section']/section/div[@id='scroll-bar']/div[@class='cardDetails']/div[@class='cardDetails-inner']/div[4]/div[1]//*[name()='svg'] locatorType: xpath
+11/06/2023 05:39:26 PM - SeleniumDriver - INFO: Element Found
+11/06/2023 05:39:26 PM - SeleniumDriver - INFO: Sent data on element with locator: //input[@placeholder='Enter Pipeline Name'] locatorType: xpath
+11/06/2023 05:39:31 PM - SeleniumDriver - INFO: Element Found
+11/06/2023 05:39:31 PM - SeleniumDriver - INFO: Clicked on element with locator: //button[@class='el-button el-button--primary'] locatorType: xpath
+11/07/2023 01:00:51 PM - SeleniumDriver - INFO: Element Found
+11/07/2023 01:00:51 PM - SeleniumDriver - INFO: Sent data on element with locator: //input[@placeholder='Email Id'] locatorType: xpath
+11/07/2023 01:00:51 PM - SeleniumDriver - INFO: Element Found
+11/07/2023 01:00:52 PM - SeleniumDriver - INFO: Sent data on element with locator: //input[@placeholder='Password'] locatorType: xpath
+11/07/2023 01:00:52 PM - SeleniumDriver - INFO: Element Found
+11/07/2023 01:00:52 PM - SeleniumDriver - INFO: Clicked on element with locator: //div[@class='button'][normalize-space()='Login'] locatorType: xpath
+11/07/2023 01:00:54 PM - SeleniumDriver - INFO: Element Found
+11/07/2023 01:00:54 PM - SeleniumDriver - INFO: Clicked on element with locator: //a[@href='/leadmanagement'] locatorType: xpath
+11/07/2023 01:00:54 PM - SeleniumDriver - INFO: Element Found
+11/07/2023 01:00:54 PM - SeleniumDriver - INFO: Clicked on element with locator: //span[normalize-space()='Create Lead'] locatorType: xpath
+11/07/2023 01:00:55 PM - SeleniumDriver - INFO: Element Found
+11/07/2023 01:00:55 PM - SeleniumDriver - INFO: Clicked on element with locator: //button[@class='el-button el-button--default fixButton0'] locatorType: xpath
+11/07/2023 01:00:56 PM - SeleniumDriver - INFO: Element Found
+11/07/2023 01:00:56 PM - SeleniumDriver - INFO: Clicked on element with locator: //input[@placeholder='Select Date'] locatorType: xpath
+11/07/2023 01:00:57 PM - SeleniumDriver - INFO: Element Found
+11/07/2023 01:00:57 PM - SeleniumDriver - INFO: Clicked on element with locator: //button[@aria-label='Next Month'] locatorType: xpath
+11/07/2023 01:00:57 PM - SeleniumDriver - INFO: Element Found
+11/07/2023 01:00:57 PM - SeleniumDriver - INFO: Clicked on element with locator: //body[1]/div[9]/div[1]/div[1]/div[2]/table[1]/tbody[1]/tr[3]/td[3]/div[1]/span[1] locatorType: xpath
+11/07/2023 01:00:58 PM - SeleniumDriver - INFO: Element Found
+11/07/2023 01:00:58 PM - SeleniumDriver - INFO: Sent data on element with locator: //input[@placeholder='Enter Name'] locatorType: xpath
+11/07/2023 01:00:58 PM - SeleniumDriver - INFO: Element Found
+11/07/2023 01:00:58 PM - SeleniumDriver - INFO: Sent data on element with locator: //input[@placeholder='Enter Email ID'] locatorType: xpath
+11/07/2023 01:00:58 PM - SeleniumDriver - INFO: Element Found
+11/07/2023 01:00:58 PM - SeleniumDriver - INFO: Sent data on element with locator: //input[@placeholder='Enter phone number'] locatorType: xpath
+11/07/2023 01:00:58 PM - SeleniumDriver - INFO: Element Found
+11/07/2023 01:00:59 PM - SeleniumDriver - INFO: Clicked on element with locator: //input[@placeholder='Select an Owner'] locatorType: xpath
+11/07/2023 01:00:59 PM - SeleniumDriver - INFO: Element Found
+11/07/2023 01:00:59 PM - SeleniumDriver - INFO: Clicked on element with locator: //input[@placeholder='Select a property type'] locatorType: xpath
+11/07/2023 01:01:00 PM - SeleniumDriver - INFO: Element Found
+11/07/2023 01:01:00 PM - SeleniumDriver - INFO: Clicked on element with locator: //input[@placeholder='Select a lead source type'] locatorType: xpath
+11/07/2023 01:01:01 PM - SeleniumDriver - INFO: Element Found
+11/07/2023 01:01:01 PM - SeleniumDriver - INFO: Clicked on element with locator: //input[@placeholder='Select a Pipeline'] locatorType: xpath
+11/07/2023 01:01:02 PM - SeleniumDriver - INFO: Element Found
+11/07/2023 01:01:02 PM - SeleniumDriver - INFO: Clicked on element with locator: //input[@placeholder='Select a Stage'] locatorType: xpath
+11/07/2023 01:01:02 PM - SeleniumDriver - INFO: Element Found
+11/07/2023 01:01:02 PM - SeleniumDriver - INFO: Sent data on element with locator: //input[@placeholder='Enter the property address'] locatorType: xpath
+11/07/2023 01:01:02 PM - SeleniumDriver - INFO: Element Found
+11/07/2023 01:01:02 PM - SeleniumDriver - INFO: Clicked on element with locator: //input[@placeholder='Enter the property address'] locatorType: xpath
+11/07/2023 01:01:02 PM - SeleniumDriver - INFO: Element Found
+11/07/2023 01:01:02 PM - SeleniumDriver - INFO: Sent data on element with locator: //input[@placeholder='Enter potential deal value'] locatorType: xpath
+11/07/2023 01:01:02 PM - SeleniumDriver - INFO: Element Found
+11/07/2023 01:01:03 PM - SeleniumDriver - INFO: Clicked on element with locator: //button[@class='el-button leadBtn el-button--primary'] locatorType: xpath
+11/07/2023 01:01:28 PM - SeleniumDriver - INFO: Element Found
+11/07/2023 01:01:28 PM - SeleniumDriver - INFO: Sent data on element with locator: //input[@placeholder='Email Id'] locatorType: xpath
+11/07/2023 01:01:28 PM - SeleniumDriver - INFO: Element Found
+11/07/2023 01:01:28 PM - SeleniumDriver - INFO: Sent data on element with locator: //input[@placeholder='Password'] locatorType: xpath
+11/07/2023 01:01:28 PM - SeleniumDriver - INFO: Element Found
+11/07/2023 01:01:29 PM - SeleniumDriver - INFO: Clicked on element with locator: //div[@class='button'][normalize-space()='Login'] locatorType: xpath
+11/07/2023 01:01:34 PM - SeleniumDriver - INFO: Element not found
+11/07/2023 01:01:34 PM - SeleniumDriver - INFO: Cannot click on the element with locator: //li[@id='sublistOne']//a[@href='#'] locatorType: xpath
+11/07/2023 01:01:37 PM - SeleniumDriver - INFO: Element not found
+11/07/2023 01:01:37 PM - SeleniumDriver - INFO: Cannot click on the element with locator: //a[normalize-space()='- Pipelines'] locatorType: xpath
+11/07/2023 01:01:40 PM - SeleniumDriver - INFO: Element not found
+11/07/2023 01:01:40 PM - SeleniumDriver - INFO: Cannot click on the element with locator: //body/div[@id='app']/div[@id='leadManagement']/div[@id='container']/section[@class='right_section containerCRM']/div[@class='content_section']/section/div[@id='scroll-bar']/div[@class='cardDetails']/div[@class='cardDetails-inner']/div[4]/div[1]//*[name()='svg'] locatorType: xpath
+11/07/2023 01:01:43 PM - SeleniumDriver - INFO: Element not found
+11/07/2023 01:01:43 PM - SeleniumDriver - INFO: Cannot send data on the element with locator: //input[@placeholder='Enter Pipeline Name'] locatorType: xpath
+11/07/2023 01:01:51 PM - SeleniumDriver - INFO: Element not found
+11/07/2023 01:01:51 PM - SeleniumDriver - INFO: Cannot click on the element with locator: //button[@class='el-button el-button--primary'] locatorType: xpath
+11/07/2023 01:02:09 PM - SeleniumDriver - INFO: Element Found
+11/07/2023 01:02:09 PM - SeleniumDriver - INFO: Sent data on element with locator: //input[@placeholder='Email Id'] locatorType: xpath
+11/07/2023 01:02:09 PM - SeleniumDriver - INFO: Element Found
+11/07/2023 01:02:09 PM - SeleniumDriver - INFO: Sent data on element with locator: //input[@placeholder='Password'] locatorType: xpath
+11/07/2023 01:02:09 PM - SeleniumDriver - INFO: Element Found
+11/07/2023 01:02:09 PM - SeleniumDriver - INFO: Clicked on element with locator: //div[@class='button'][normalize-space()='Login'] locatorType: xpath
+11/07/2023 01:02:11 PM - SeleniumDriver - INFO: Element Found
+11/07/2023 01:02:11 PM - SeleniumDriver - INFO: Clicked on element with locator: //li[@id='sublistOne']//a[@href='#'] locatorType: xpath
+11/07/2023 01:02:11 PM - SeleniumDriver - INFO: Element Found
+11/07/2023 01:02:12 PM - SeleniumDriver - INFO: Clicked on element with locator: //a[normalize-space()='- Pipelines'] locatorType: xpath
+11/07/2023 01:02:15 PM - SeleniumDriver - INFO: Element not found
+11/07/2023 01:02:15 PM - SeleniumDriver - INFO: Cannot click on the element with locator: //body/div[@id='app']/div[@id='leadManagement']/div[@id='container']/section[@class='right_section containerCRM']/div[@class='content_section']/section/div[@id='scroll-bar']/div[@class='cardDetails']/div[@class='cardDetails-inner']/div[4]/div[1]//*[name()='svg'] locatorType: xpath
+11/07/2023 01:02:18 PM - SeleniumDriver - INFO: Element not found
+11/07/2023 01:02:18 PM - SeleniumDriver - INFO: Cannot send data on the element with locator: //input[@placeholder='Enter Pipeline Name'] locatorType: xpath
+11/07/2023 01:02:26 PM - SeleniumDriver - INFO: Element not found
+11/07/2023 01:02:26 PM - SeleniumDriver - INFO: Cannot click on the element with locator: //button[@class='el-button el-button--primary'] locatorType: xpath
+11/07/2023 01:02:43 PM - SeleniumDriver - INFO: Element Found
+11/07/2023 01:02:43 PM - SeleniumDriver - INFO: Sent data on element with locator: //input[@placeholder='Email Id'] locatorType: xpath
+11/07/2023 01:02:43 PM - SeleniumDriver - INFO: Element Found
+11/07/2023 01:02:43 PM - SeleniumDriver - INFO: Sent data on element with locator: //input[@placeholder='Password'] locatorType: xpath
+11/07/2023 01:02:43 PM - SeleniumDriver - INFO: Element Found
+11/07/2023 01:02:43 PM - SeleniumDriver - INFO: Clicked on element with locator: //div[@class='button'][normalize-space()='Login'] locatorType: xpath
+11/07/2023 01:02:45 PM - SeleniumDriver - INFO: Element Found
+11/07/2023 01:02:46 PM - SeleniumDriver - INFO: Clicked on element with locator: //li[@id='sublistOne']//a[@href='#'] locatorType: xpath
+11/07/2023 01:02:46 PM - SeleniumDriver - INFO: Element Found
+11/07/2023 01:02:46 PM - SeleniumDriver - INFO: Clicked on element with locator: //a[normalize-space()='- Pipelines'] locatorType: xpath
+11/07/2023 01:02:49 PM - SeleniumDriver - INFO: Element not found
+11/07/2023 01:02:49 PM - SeleniumDriver - INFO: Cannot click on the element with locator: //body/div[@id='app']/div[@id='leadManagement']/div[@id='container']/section[@class='right_section containerCRM']/div[@class='content_section']/section/div[@id='scroll-bar']/div[@class='cardDetails']/div[@class='cardDetails-inner']/div[4]/div[1]//*[name()='svg'] locatorType: xpath
+11/07/2023 01:02:52 PM - SeleniumDriver - INFO: Element not found
+11/07/2023 01:02:52 PM - SeleniumDriver - INFO: Cannot send data on the element with locator: //input[@placeholder='Enter Pipeline Name'] locatorType: xpath
+11/07/2023 01:03:00 PM - SeleniumDriver - INFO: Element not found
+11/07/2023 01:03:00 PM - SeleniumDriver - INFO: Cannot click on the element with locator: //button[@class='el-button el-button--primary'] locatorType: xpath
+11/07/2023 01:03:27 PM - SeleniumDriver - INFO: Element Found
+11/07/2023 01:03:27 PM - SeleniumDriver - INFO: Sent data on element with locator: //input[@placeholder='Email Id'] locatorType: xpath
+11/07/2023 01:03:27 PM - SeleniumDriver - INFO: Element Found
+11/07/2023 01:03:27 PM - SeleniumDriver - INFO: Sent data on element with locator: //input[@placeholder='Password'] locatorType: xpath
+11/07/2023 01:03:27 PM - SeleniumDriver - INFO: Element Found
+11/07/2023 01:03:27 PM - SeleniumDriver - INFO: Clicked on element with locator: //div[@class='button'][normalize-space()='Login'] locatorType: xpath
+11/07/2023 01:03:29 PM - SeleniumDriver - INFO: Element Found
+11/07/2023 01:03:29 PM - SeleniumDriver - INFO: Clicked on element with locator: //li[@id='sublistOne']//a[@href='#'] locatorType: xpath
+11/07/2023 01:03:29 PM - SeleniumDriver - INFO: Element Found
+11/07/2023 01:03:29 PM - SeleniumDriver - INFO: Clicked on element with locator: //a[normalize-space()='- Pipelines'] locatorType: xpath
+11/07/2023 01:03:32 PM - SeleniumDriver - INFO: Element not found
+11/07/2023 01:03:32 PM - SeleniumDriver - INFO: Cannot click on the element with locator: //body/div[@id='app']/div[@id='leadManagement']/div[@id='container']/section[@class='right_section containerCRM']/div[@class='content_section']/section/div[@id='scroll-bar']/div[@class='cardDetails']/div[@class='cardDetails-inner']/div[4]/div[1]//*[name()='svg'] locatorType: xpath
+11/07/2023 01:03:35 PM - SeleniumDriver - INFO: Element not found
+11/07/2023 01:03:35 PM - SeleniumDriver - INFO: Cannot send data on the element with locator: //input[@placeholder='Enter Pipeline Name'] locatorType: xpath
+11/07/2023 01:03:38 PM - SeleniumDriver - INFO: Element not found
+11/07/2023 01:03:38 PM - SeleniumDriver - INFO: Cannot click on the element with locator: //button[@class='el-button el-button--primary'] locatorType: xpath
+11/07/2023 01:03:58 PM - SeleniumDriver - INFO: Element Found
+11/07/2023 01:03:58 PM - SeleniumDriver - INFO: Sent data on element with locator: //input[@placeholder='Email Id'] locatorType: xpath
+11/07/2023 01:03:58 PM - SeleniumDriver - INFO: Element Found
+11/07/2023 01:03:58 PM - SeleniumDriver - INFO: Sent data on element with locator: //input[@placeholder='Password'] locatorType: xpath
+11/07/2023 01:03:58 PM - SeleniumDriver - INFO: Element Found
+11/07/2023 01:03:58 PM - SeleniumDriver - INFO: Clicked on element with locator: //div[@class='button'][normalize-space()='Login'] locatorType: xpath
+11/07/2023 01:04:00 PM - SeleniumDriver - INFO: Element Found
+11/07/2023 01:04:00 PM - SeleniumDriver - INFO: Clicked on element with locator: //li[@id='sublistOne']//a[@href='#'] locatorType: xpath
+11/07/2023 01:04:00 PM - SeleniumDriver - INFO: Element Found
+11/07/2023 01:04:00 PM - SeleniumDriver - INFO: Clicked on element with locator: //a[normalize-space()='- Pipelines'] locatorType: xpath
+11/07/2023 01:04:03 PM - SeleniumDriver - INFO: Element not found
+11/07/2023 01:04:03 PM - SeleniumDriver - INFO: Cannot click on the element with locator: //body/div[@id='app']/div[@id='leadManagement']/div[@id='container']/section[@class='right_section containerCRM']/div[@class='content_section']/section/div[@id='scroll-bar']/div[@class='cardDetails']/div[@class='cardDetails-inner']/div[4]/div[1]//*[name()='svg'] locatorType: xpath
+11/07/2023 01:04:07 PM - SeleniumDriver - INFO: Element not found
+11/07/2023 01:04:07 PM - SeleniumDriver - INFO: Cannot send data on the element with locator: //input[@placeholder='Enter Pipeline Name'] locatorType: xpath
+11/07/2023 01:04:10 PM - SeleniumDriver - INFO: Element not found
+11/07/2023 01:04:10 PM - SeleniumDriver - INFO: Cannot click on the element with locator: //button[@class='el-button el-button--primary'] locatorType: xpath
+11/07/2023 04:10:56 PM - SeleniumDriver - INFO: Element Found
+11/07/2023 04:10:56 PM - SeleniumDriver - INFO: Sent data on element with locator: //input[@placeholder='Email Id'] locatorType: xpath
+11/07/2023 04:10:56 PM - SeleniumDriver - INFO: Element Found
+11/07/2023 04:10:56 PM - SeleniumDriver - INFO: Sent data on element with locator: //input[@placeholder='Password'] locatorType: xpath
+11/07/2023 04:10:56 PM - SeleniumDriver - INFO: Element Found
+11/07/2023 04:10:57 PM - SeleniumDriver - INFO: Clicked on element with locator: //div[@class='button'][normalize-space()='Login'] locatorType: xpath
+11/08/2023 01:37:57 PM - SeleniumDriver - INFO: Element Found
+11/08/2023 01:37:57 PM - SeleniumDriver - INFO: Sent data on element with locator: //input[@placeholder='Email Id'] locatorType: xpath
+11/08/2023 01:37:57 PM - SeleniumDriver - INFO: Element Found
+11/08/2023 01:37:57 PM - SeleniumDriver - INFO: Sent data on element with locator: //input[@placeholder='Password'] locatorType: xpath
+11/08/2023 01:37:57 PM - SeleniumDriver - INFO: Element Found
+11/08/2023 01:37:58 PM - SeleniumDriver - INFO: Clicked on element with locator: //div[@class='button'][normalize-space()='Login'] locatorType: xpath
+11/08/2023 01:41:38 PM - SeleniumDriver - INFO: Element Found
+11/08/2023 01:41:38 PM - SeleniumDriver - INFO: Sent data on element with locator: //input[@placeholder='Email Id'] locatorType: xpath
+11/08/2023 01:41:38 PM - SeleniumDriver - INFO: Element Found
+11/08/2023 01:41:38 PM - SeleniumDriver - INFO: Sent data on element with locator: //input[@placeholder='Password'] locatorType: xpath
+11/08/2023 01:41:38 PM - SeleniumDriver - INFO: Element Found
+11/08/2023 01:41:39 PM - SeleniumDriver - INFO: Clicked on element with locator: //div[@class='button'][normalize-space()='Login'] locatorType: xpath
+11/08/2023 01:50:32 PM - SeleniumDriver - INFO: Element Found
+11/08/2023 01:50:32 PM - SeleniumDriver - INFO: Sent data on element with locator: //input[@placeholder='Email Id'] locatorType: xpath
+11/08/2023 01:50:32 PM - SeleniumDriver - INFO: Element Found
+11/08/2023 01:50:32 PM - SeleniumDriver - INFO: Sent data on element with locator: //input[@placeholder='Password'] locatorType: xpath
+11/08/2023 01:50:32 PM - SeleniumDriver - INFO: Element Found
+11/08/2023 01:50:33 PM - SeleniumDriver - INFO: Clicked on element with locator: //div[@class='button'][normalize-space()='Login'] locatorType: xpath
+11/08/2023 01:50:35 PM - SeleniumDriver - INFO: Element Found
+11/08/2023 01:50:35 PM - SeleniumDriver - INFO: Clicked on element with locator: //a[@href='/leadmanagement'] locatorType: xpath
+11/08/2023 01:51:05 PM - SeleniumDriver - INFO: Element Found
+11/08/2023 01:51:05 PM - SeleniumDriver - INFO: Sent data on element with locator: //input[@placeholder='Email Id'] locatorType: xpath
+11/08/2023 01:51:05 PM - SeleniumDriver - INFO: Element Found
+11/08/2023 01:51:06 PM - SeleniumDriver - INFO: Sent data on element with locator: //input[@placeholder='Password'] locatorType: xpath
+11/08/2023 01:51:06 PM - SeleniumDriver - INFO: Element Found
+11/08/2023 01:51:06 PM - SeleniumDriver - INFO: Clicked on element with locator: //div[@class='button'][normalize-space()='Login'] locatorType: xpath
+11/08/2023 01:51:08 PM - SeleniumDriver - INFO: Element Found
+11/08/2023 01:51:08 PM - SeleniumDriver - INFO: Clicked on element with locator: //a[@href='/leadmanagement'] locatorType: xpath
+11/08/2023 01:51:32 PM - SeleniumDriver - INFO: Element Found
+11/08/2023 01:51:32 PM - SeleniumDriver - INFO: Sent data on element with locator: //input[@placeholder='Email Id'] locatorType: xpath
+11/08/2023 01:51:32 PM - SeleniumDriver - INFO: Element Found
+11/08/2023 01:51:32 PM - SeleniumDriver - INFO: Sent data on element with locator: //input[@placeholder='Password'] locatorType: xpath
+11/08/2023 01:51:32 PM - SeleniumDriver - INFO: Element Found
+11/08/2023 01:51:32 PM - SeleniumDriver - INFO: Clicked on element with locator: //div[@class='button'][normalize-space()='Login'] locatorType: xpath
+11/08/2023 01:51:34 PM - SeleniumDriver - INFO: Element Found
+11/08/2023 01:51:34 PM - SeleniumDriver - INFO: Clicked on element with locator: //a[@href='/leadmanagement'] locatorType: xpath
+11/08/2023 01:52:06 PM - SeleniumDriver - INFO: Element Found
+11/08/2023 01:52:06 PM - SeleniumDriver - INFO: Sent data on element with locator: //input[@placeholder='Email Id'] locatorType: xpath
+11/08/2023 01:52:06 PM - SeleniumDriver - INFO: Element Found
+11/08/2023 01:52:06 PM - SeleniumDriver - INFO: Sent data on element with locator: //input[@placeholder='Password'] locatorType: xpath
+11/08/2023 01:52:06 PM - SeleniumDriver - INFO: Element Found
+11/08/2023 01:52:06 PM - SeleniumDriver - INFO: Clicked on element with locator: //div[@class='button'][normalize-space()='Login'] locatorType: xpath
+11/08/2023 01:52:08 PM - SeleniumDriver - INFO: Element Found
+11/08/2023 01:52:08 PM - SeleniumDriver - INFO: Clicked on element with locator: //a[@href='/leadmanagement'] locatorType: xpath
+11/08/2023 01:52:09 PM - SeleniumDriver - INFO: Element Found
+11/08/2023 01:53:09 PM - SeleniumDriver - INFO: Element Found
+11/08/2023 01:53:09 PM - SeleniumDriver - INFO: Sent data on element with locator: //input[@placeholder='Email Id'] locatorType: xpath
+11/08/2023 01:53:09 PM - SeleniumDriver - INFO: Element Found
+11/08/2023 01:53:09 PM - SeleniumDriver - INFO: Sent data on element with locator: //input[@placeholder='Password'] locatorType: xpath
+11/08/2023 01:53:09 PM - SeleniumDriver - INFO: Element Found
+11/08/2023 01:53:09 PM - SeleniumDriver - INFO: Clicked on element with locator: //div[@class='button'][normalize-space()='Login'] locatorType: xpath
+11/08/2023 01:53:11 PM - SeleniumDriver - INFO: Element Found
+11/08/2023 01:53:12 PM - SeleniumDriver - INFO: Clicked on element with locator: //a[@href='/leadmanagement'] locatorType: xpath
+11/08/2023 01:53:12 PM - SeleniumDriver - INFO: Element Found
+11/08/2023 01:53:12 PM - SeleniumDriver - INFO: Clicked on element with locator: //div[contains(text(),'Sort')] locatorType: xpath
+11/08/2023 01:54:38 PM - SeleniumDriver - INFO: Element Found
+11/08/2023 01:54:38 PM - SeleniumDriver - INFO: Sent data on element with locator: //input[@placeholder='Email Id'] locatorType: xpath
+11/08/2023 01:54:38 PM - SeleniumDriver - INFO: Element Found
+11/08/2023 01:54:38 PM - SeleniumDriver - INFO: Sent data on element with locator: //input[@placeholder='Password'] locatorType: xpath
+11/08/2023 01:54:38 PM - SeleniumDriver - INFO: Element Found
+11/08/2023 01:54:38 PM - SeleniumDriver - INFO: Clicked on element with locator: //div[@class='button'][normalize-space()='Login'] locatorType: xpath
+11/08/2023 01:54:40 PM - SeleniumDriver - INFO: Element Found
+11/08/2023 01:54:40 PM - SeleniumDriver - INFO: Clicked on element with locator: //a[@href='/leadmanagement'] locatorType: xpath
+11/08/2023 01:54:41 PM - SeleniumDriver - INFO: Element Found
+11/08/2023 01:54:41 PM - SeleniumDriver - INFO: Clicked on element with locator: //div[contains(text(),'Sort')] locatorType: xpath
+11/08/2023 01:54:41 PM - SeleniumDriver - INFO: Element Found
+11/08/2023 01:54:41 PM - SeleniumDriver - INFO: Cannot click on the element with locator: //div[normalize-space()='Amount'] locatorType: xpath
+11/08/2023 03:54:17 PM - SeleniumDriver - INFO: Element Found
+11/08/2023 03:54:18 PM - SeleniumDriver - INFO: Sent data on element with locator: //input[@placeholder='Email Id'] locatorType: xpath
+11/08/2023 03:54:18 PM - SeleniumDriver - INFO: Element Found
+11/08/2023 03:54:18 PM - SeleniumDriver - INFO: Sent data on element with locator: //input[@placeholder='Password'] locatorType: xpath
+11/08/2023 03:54:18 PM - SeleniumDriver - INFO: Element Found
+11/08/2023 03:54:18 PM - SeleniumDriver - INFO: Clicked on element with locator: //div[@class='button'][normalize-space()='Login'] locatorType: xpath
+11/08/2023 03:54:20 PM - SeleniumDriver - INFO: Element Found
+11/08/2023 03:54:20 PM - SeleniumDriver - INFO: Clicked on element with locator: //a[@href='/leadmanagement'] locatorType: xpath
+11/08/2023 03:54:20 PM - SeleniumDriver - INFO: Element Found
+11/08/2023 03:54:20 PM - SeleniumDriver - INFO: Clicked on element with locator: //div[contains(text(),'Sort')] locatorType: xpath
+11/08/2023 03:54:48 PM - SeleniumDriver - INFO: Element Found
+11/08/2023 03:54:48 PM - SeleniumDriver - INFO: Sent data on element with locator: //input[@placeholder='Email Id'] locatorType: xpath
+11/08/2023 03:54:48 PM - SeleniumDriver - INFO: Element Found
+11/08/2023 03:54:48 PM - SeleniumDriver - INFO: Sent data on element with locator: //input[@placeholder='Password'] locatorType: xpath
+11/08/2023 03:54:48 PM - SeleniumDriver - INFO: Element Found
+11/08/2023 03:54:48 PM - SeleniumDriver - INFO: Clicked on element with locator: //div[@class='button'][normalize-space()='Login'] locatorType: xpath
+11/08/2023 03:54:50 PM - SeleniumDriver - INFO: Element Found
+11/08/2023 03:54:51 PM - SeleniumDriver - INFO: Clicked on element with locator: //a[@href='/leadmanagement'] locatorType: xpath
+11/08/2023 03:54:51 PM - SeleniumDriver - INFO: Element Found
+11/08/2023 03:54:51 PM - SeleniumDriver - INFO: Clicked on element with locator: //div[contains(text(),'Sort')] locatorType: xpath
+11/08/2023 03:55:52 PM - SeleniumDriver - INFO: Element Found
+11/08/2023 03:55:52 PM - SeleniumDriver - INFO: Sent data on element with locator: //input[@placeholder='Email Id'] locatorType: xpath
+11/08/2023 03:55:52 PM - SeleniumDriver - INFO: Element Found
+11/08/2023 03:55:52 PM - SeleniumDriver - INFO: Sent data on element with locator: //input[@placeholder='Password'] locatorType: xpath
+11/08/2023 03:55:52 PM - SeleniumDriver - INFO: Element Found
+11/08/2023 03:55:52 PM - SeleniumDriver - INFO: Clicked on element with locator: //div[@class='button'][normalize-space()='Login'] locatorType: xpath
+11/08/2023 03:55:55 PM - SeleniumDriver - INFO: Element Found
+11/08/2023 03:55:55 PM - SeleniumDriver - INFO: Clicked on element with locator: //a[@href='/leadmanagement'] locatorType: xpath
+11/08/2023 03:55:55 PM - SeleniumDriver - INFO: Element Found
+11/08/2023 03:55:55 PM - SeleniumDriver - INFO: Clicked on element with locator: //div[contains(text(),'Sort')] locatorType: xpath
+11/08/2023 03:57:09 PM - SeleniumDriver - INFO: Element Found
+11/08/2023 03:57:09 PM - SeleniumDriver - INFO: Sent data on element with locator: //input[@placeholder='Email Id'] locatorType: xpath
+11/08/2023 03:57:09 PM - SeleniumDriver - INFO: Element Found
+11/08/2023 03:57:09 PM - SeleniumDriver - INFO: Sent data on element with locator: //input[@placeholder='Password'] locatorType: xpath
+11/08/2023 03:57:09 PM - SeleniumDriver - INFO: Element Found
+11/08/2023 03:57:09 PM - SeleniumDriver - INFO: Clicked on element with locator: //div[@class='button'][normalize-space()='Login'] locatorType: xpath
+11/08/2023 03:57:11 PM - SeleniumDriver - INFO: Element Found
+11/08/2023 03:57:12 PM - SeleniumDriver - INFO: Clicked on element with locator: //a[@href='/leadmanagement'] locatorType: xpath
+11/08/2023 03:57:12 PM - SeleniumDriver - INFO: Element Found
+11/08/2023 03:57:12 PM - SeleniumDriver - INFO: Clicked on element with locator: //div[contains(text(),'Sort')] locatorType: xpath
+11/08/2023 03:57:39 PM - SeleniumDriver - INFO: Element Found
+11/08/2023 03:57:39 PM - SeleniumDriver - INFO: Sent data on element with locator: //input[@placeholder='Email Id'] locatorType: xpath
+11/08/2023 03:57:39 PM - SeleniumDriver - INFO: Element Found
+11/08/2023 03:57:39 PM - SeleniumDriver - INFO: Sent data on element with locator: //input[@placeholder='Password'] locatorType: xpath
+11/08/2023 03:57:39 PM - SeleniumDriver - INFO: Element Found
+11/08/2023 03:57:39 PM - SeleniumDriver - INFO: Clicked on element with locator: //div[@class='button'][normalize-space()='Login'] locatorType: xpath
+11/08/2023 03:57:42 PM - SeleniumDriver - INFO: Element Found
+11/08/2023 03:57:42 PM - SeleniumDriver - INFO: Clicked on element with locator: //a[@href='/leadmanagement'] locatorType: xpath
+11/08/2023 03:57:42 PM - SeleniumDriver - INFO: Element Found
+11/08/2023 03:57:42 PM - SeleniumDriver - INFO: Clicked on element with locator: //div[contains(text(),'Sort')] locatorType: xpath
+11/08/2023 03:58:29 PM - SeleniumDriver - INFO: Element Found
+11/08/2023 03:58:29 PM - SeleniumDriver - INFO: Sent data on element with locator: //input[@placeholder='Email Id'] locatorType: xpath
+11/08/2023 03:58:29 PM - SeleniumDriver - INFO: Element Found
+11/08/2023 03:58:30 PM - SeleniumDriver - INFO: Sent data on element with locator: //input[@placeholder='Password'] locatorType: xpath
+11/08/2023 03:58:30 PM - SeleniumDriver - INFO: Element Found
+11/08/2023 03:58:30 PM - SeleniumDriver - INFO: Clicked on element with locator: //div[@class='button'][normalize-space()='Login'] locatorType: xpath
+11/08/2023 03:58:32 PM - SeleniumDriver - INFO: Element Found
+11/08/2023 03:58:32 PM - SeleniumDriver - INFO: Clicked on element with locator: //a[@href='/leadmanagement'] locatorType: xpath
+11/08/2023 03:58:32 PM - SeleniumDriver - INFO: Element Found
+11/08/2023 03:58:32 PM - SeleniumDriver - INFO: Clicked on element with locator: //div[contains(text(),'Sort')] locatorType: xpath
+11/08/2023 03:59:54 PM - SeleniumDriver - INFO: Element Found
+11/08/2023 03:59:54 PM - SeleniumDriver - INFO: Sent data on element with locator: //input[@placeholder='Email Id'] locatorType: xpath
+11/08/2023 03:59:54 PM - SeleniumDriver - INFO: Element Found
+11/08/2023 03:59:54 PM - SeleniumDriver - INFO: Sent data on element with locator: //input[@placeholder='Password'] locatorType: xpath
+11/08/2023 03:59:54 PM - SeleniumDriver - INFO: Element Found
+11/08/2023 03:59:54 PM - SeleniumDriver - INFO: Clicked on element with locator: //div[@class='button'][normalize-space()='Login'] locatorType: xpath
+11/08/2023 03:59:56 PM - SeleniumDriver - INFO: Element Found
+11/08/2023 03:59:56 PM - SeleniumDriver - INFO: Clicked on element with locator: //a[@href='/leadmanagement'] locatorType: xpath
+11/08/2023 03:59:56 PM - SeleniumDriver - INFO: Element Found
+11/08/2023 03:59:56 PM - SeleniumDriver - INFO: Clicked on element with locator: //div[contains(text(),'Sort')] locatorType: xpath
+11/08/2023 04:33:16 PM - SeleniumDriver - INFO: Element Found
+11/08/2023 04:33:16 PM - SeleniumDriver - INFO: Sent data on element with locator: //input[@placeholder='Email Id'] locatorType: xpath
+11/08/2023 04:33:16 PM - SeleniumDriver - INFO: Element Found
+11/08/2023 04:33:17 PM - SeleniumDriver - INFO: Sent data on element with locator: //input[@placeholder='Password'] locatorType: xpath
+11/08/2023 04:33:17 PM - SeleniumDriver - INFO: Element Found
+11/08/2023 04:33:17 PM - SeleniumDriver - INFO: Clicked on element with locator: //div[@class='button'][normalize-space()='Login'] locatorType: xpath
+11/08/2023 04:33:19 PM - SeleniumDriver - INFO: Element Found
+11/08/2023 04:33:19 PM - SeleniumDriver - INFO: Clicked on element with locator: //a[@href='/leadmanagement'] locatorType: xpath
+11/08/2023 04:34:47 PM - SeleniumDriver - INFO: Element Found
+11/08/2023 04:34:47 PM - SeleniumDriver - INFO: Sent data on element with locator: //input[@placeholder='Email Id'] locatorType: xpath
+11/08/2023 04:34:47 PM - SeleniumDriver - INFO: Element Found
+11/08/2023 04:34:47 PM - SeleniumDriver - INFO: Sent data on element with locator: //input[@placeholder='Password'] locatorType: xpath
+11/08/2023 04:34:47 PM - SeleniumDriver - INFO: Element Found
+11/08/2023 04:34:47 PM - SeleniumDriver - INFO: Clicked on element with locator: //div[@class='button'][normalize-space()='Login'] locatorType: xpath
+11/08/2023 04:34:49 PM - SeleniumDriver - INFO: Element Found
+11/08/2023 04:34:49 PM - SeleniumDriver - INFO: Clicked on element with locator: //a[@href='/leadmanagement'] locatorType: xpath
+11/08/2023 04:34:49 PM - SeleniumDriver - INFO: Element Found
+11/08/2023 04:35:56 PM - SeleniumDriver - INFO: Element Found
+11/08/2023 04:35:56 PM - SeleniumDriver - INFO: Sent data on element with locator: //input[@placeholder='Email Id'] locatorType: xpath
+11/08/2023 04:35:56 PM - SeleniumDriver - INFO: Element Found
+11/08/2023 04:35:56 PM - SeleniumDriver - INFO: Sent data on element with locator: //input[@placeholder='Password'] locatorType: xpath
+11/08/2023 04:35:56 PM - SeleniumDriver - INFO: Element Found
+11/08/2023 04:35:57 PM - SeleniumDriver - INFO: Clicked on element with locator: //div[@class='button'][normalize-space()='Login'] locatorType: xpath
+11/08/2023 04:35:59 PM - SeleniumDriver - INFO: Element Found
+11/08/2023 04:35:59 PM - SeleniumDriver - INFO: Clicked on element with locator: //a[@href='/leadmanagement'] locatorType: xpath
+11/08/2023 04:35:59 PM - SeleniumDriver - INFO: Element Found
+11/08/2023 04:35:59 PM - SeleniumDriver - INFO: Clicked on element with locator: //div[contains(text(),'Sort')] locatorType: xpath
+11/08/2023 04:36:00 PM - SeleniumDriver - INFO: Element Found
+11/08/2023 04:36:00 PM - SeleniumDriver - INFO: Clicked on element with locator: //div[normalize-space()='Amount'] locatorType: xpath
+11/08/2023 04:36:45 PM - SeleniumDriver - INFO: Element Found
+11/08/2023 04:36:45 PM - SeleniumDriver - INFO: Sent data on element with locator: //input[@placeholder='Email Id'] locatorType: xpath
+11/08/2023 04:36:45 PM - SeleniumDriver - INFO: Element Found
+11/08/2023 04:36:45 PM - SeleniumDriver - INFO: Sent data on element with locator: //input[@placeholder='Password'] locatorType: xpath
+11/08/2023 04:36:45 PM - SeleniumDriver - INFO: Element Found
+11/08/2023 04:36:45 PM - SeleniumDriver - INFO: Clicked on element with locator: //div[@class='button'][normalize-space()='Login'] locatorType: xpath
+11/08/2023 04:36:47 PM - SeleniumDriver - INFO: Element Found
+11/08/2023 04:36:48 PM - SeleniumDriver - INFO: Clicked on element with locator: //a[@href='/leadmanagement'] locatorType: xpath
+11/08/2023 04:36:48 PM - SeleniumDriver - INFO: Element Found
+11/08/2023 04:36:48 PM - SeleniumDriver - INFO: Clicked on element with locator: //div[contains(text(),'Sort')] locatorType: xpath
+11/08/2023 04:36:49 PM - SeleniumDriver - INFO: Element Found
+11/08/2023 04:36:49 PM - SeleniumDriver - INFO: Clicked on element with locator: //div[normalize-space()='Amount'] locatorType: xpath
+11/08/2023 04:36:53 PM - SeleniumDriver - INFO: Element not found
+11/08/2023 04:36:53 PM - SeleniumDriver - INFO: Cannot click on the element with locator: //li[@class='el-menu-item is-active'][normalize-space()='Ascending'] locatorType: xpath
+11/08/2023 04:42:04 PM - SeleniumDriver - INFO: Element Found
+11/08/2023 04:42:04 PM - SeleniumDriver - INFO: Sent data on element with locator: //input[@placeholder='Email Id'] locatorType: xpath
+11/08/2023 04:42:04 PM - SeleniumDriver - INFO: Element Found
+11/08/2023 04:42:04 PM - SeleniumDriver - INFO: Sent data on element with locator: //input[@placeholder='Password'] locatorType: xpath
+11/08/2023 04:42:04 PM - SeleniumDriver - INFO: Element Found
+11/08/2023 04:42:04 PM - SeleniumDriver - INFO: Clicked on element with locator: //div[@class='button'][normalize-space()='Login'] locatorType: xpath
+11/08/2023 04:42:06 PM - SeleniumDriver - INFO: Element Found
+11/08/2023 04:42:06 PM - SeleniumDriver - INFO: Clicked on element with locator: //a[@href='/leadmanagement'] locatorType: xpath
+11/08/2023 04:42:07 PM - SeleniumDriver - INFO: Element Found
+11/08/2023 04:42:07 PM - SeleniumDriver - INFO: Clicked on element with locator: //div[contains(text(),'Sort')] locatorType: xpath
+11/08/2023 04:42:08 PM - SeleniumDriver - INFO: Element Found
+11/08/2023 04:42:08 PM - SeleniumDriver - INFO: Clicked on element with locator: //div[normalize-space()='Amount'] locatorType: xpath
+11/08/2023 04:42:12 PM - SeleniumDriver - INFO: Element not found
+11/08/2023 04:42:12 PM - SeleniumDriver - INFO: Cannot click on the element with locator: //li[@class='el-menu-item is-active'][normalize-space()='Ascending'] locatorType: xpath
+11/08/2023 04:44:37 PM - SeleniumDriver - INFO: Element Found
+11/08/2023 04:44:37 PM - SeleniumDriver - INFO: Sent data on element with locator: //input[@placeholder='Email Id'] locatorType: xpath
+11/08/2023 04:44:37 PM - SeleniumDriver - INFO: Element Found
+11/08/2023 04:44:37 PM - SeleniumDriver - INFO: Sent data on element with locator: //input[@placeholder='Password'] locatorType: xpath
+11/08/2023 04:44:37 PM - SeleniumDriver - INFO: Element Found
+11/08/2023 04:44:37 PM - SeleniumDriver - INFO: Clicked on element with locator: //div[@class='button'][normalize-space()='Login'] locatorType: xpath
+11/08/2023 04:44:39 PM - SeleniumDriver - INFO: Element Found
+11/08/2023 04:44:39 PM - SeleniumDriver - INFO: Clicked on element with locator: //a[@href='/leadmanagement'] locatorType: xpath
+11/08/2023 04:44:39 PM - SeleniumDriver - INFO: Element Found
+11/08/2023 04:44:39 PM - SeleniumDriver - INFO: Clicked on element with locator: //div[contains(text(),'Sort')] locatorType: xpath
+11/08/2023 04:44:40 PM - SeleniumDriver - INFO: Element Found
+11/08/2023 04:44:40 PM - SeleniumDriver - INFO: Clicked on element with locator: //div[normalize-space()='Amount'] locatorType: xpath
+11/08/2023 04:44:41 PM - SeleniumDriver - INFO: Element Found
+11/08/2023 04:44:41 PM - SeleniumDriver - INFO: Clicked on element with locator: //div[@x-placement='right-start']//li[@value='Descending'][normalize-space()='Descending'] locatorType: xpath
+11/08/2023 04:45:43 PM - SeleniumDriver - INFO: Element Found
+11/08/2023 04:45:43 PM - SeleniumDriver - INFO: Sent data on element with locator: //input[@placeholder='Email Id'] locatorType: xpath
+11/08/2023 04:45:43 PM - SeleniumDriver - INFO: Element Found
+11/08/2023 04:45:43 PM - SeleniumDriver - INFO: Sent data on element with locator: //input[@placeholder='Password'] locatorType: xpath
+11/08/2023 04:45:43 PM - SeleniumDriver - INFO: Element Found
+11/08/2023 04:45:43 PM - SeleniumDriver - INFO: Clicked on element with locator: //div[@class='button'][normalize-space()='Login'] locatorType: xpath
+11/08/2023 04:45:45 PM - SeleniumDriver - INFO: Element Found
+11/08/2023 04:45:45 PM - SeleniumDriver - INFO: Clicked on element with locator: //a[@href='/leadmanagement'] locatorType: xpath
+11/08/2023 04:45:46 PM - SeleniumDriver - INFO: Element Found
+11/08/2023 04:45:46 PM - SeleniumDriver - INFO: Clicked on element with locator: //div[contains(text(),'Sort')] locatorType: xpath
+11/08/2023 04:45:46 PM - SeleniumDriver - INFO: Element Found
+11/08/2023 04:45:46 PM - SeleniumDriver - INFO: Cannot click on the element with locator: //div[normalize-space()='Amount'] locatorType: xpath
+11/08/2023 04:45:50 PM - SeleniumDriver - INFO: Element not found
+11/08/2023 04:45:50 PM - SeleniumDriver - INFO: Cannot click on the element with locator: //div[@x-placement='right-start']//li[@value='Descending'][normalize-space()='Descending'] locatorType: xpath
+11/08/2023 04:47:27 PM - SeleniumDriver - INFO: Element Found
+11/08/2023 04:47:28 PM - SeleniumDriver - INFO: Sent data on element with locator: //input[@placeholder='Email Id'] locatorType: xpath
+11/08/2023 04:47:28 PM - SeleniumDriver - INFO: Element Found
+11/08/2023 04:47:28 PM - SeleniumDriver - INFO: Sent data on element with locator: //input[@placeholder='Password'] locatorType: xpath
+11/08/2023 04:47:28 PM - SeleniumDriver - INFO: Element Found
+11/08/2023 04:47:28 PM - SeleniumDriver - INFO: Clicked on element with locator: //div[@class='button'][normalize-space()='Login'] locatorType: xpath
+11/08/2023 04:47:30 PM - SeleniumDriver - INFO: Element Found
+11/08/2023 04:47:30 PM - SeleniumDriver - INFO: Clicked on element with locator: //a[@href='/leadmanagement'] locatorType: xpath
+11/08/2023 04:47:30 PM - SeleniumDriver - INFO: Element Found
+11/08/2023 04:47:30 PM - SeleniumDriver - INFO: Clicked on element with locator: //div[contains(text(),'Sort')] locatorType: xpath
+11/08/2023 04:47:30 PM - SeleniumDriver - INFO: Element Found
+11/08/2023 04:47:30 PM - SeleniumDriver - INFO: Clicked on element with locator: //div[normalize-space()='Amount'] locatorType: xpath
+11/08/2023 04:48:17 PM - SeleniumDriver - INFO: Element Found
+11/08/2023 04:48:17 PM - SeleniumDriver - INFO: Sent data on element with locator: //input[@placeholder='Email Id'] locatorType: xpath
+11/08/2023 04:48:17 PM - SeleniumDriver - INFO: Element Found
+11/08/2023 04:48:17 PM - SeleniumDriver - INFO: Sent data on element with locator: //input[@placeholder='Password'] locatorType: xpath
+11/08/2023 04:48:17 PM - SeleniumDriver - INFO: Element Found
+11/08/2023 04:48:17 PM - SeleniumDriver - INFO: Clicked on element with locator: //div[@class='button'][normalize-space()='Login'] locatorType: xpath
+11/08/2023 04:48:19 PM - SeleniumDriver - INFO: Element Found
+11/08/2023 04:48:19 PM - SeleniumDriver - INFO: Clicked on element with locator: //a[@href='/leadmanagement'] locatorType: xpath
+11/08/2023 04:48:20 PM - SeleniumDriver - INFO: Element Found
+11/08/2023 04:48:20 PM - SeleniumDriver - INFO: Clicked on element with locator: //div[contains(text(),'Sort')] locatorType: xpath
+11/08/2023 04:48:20 PM - SeleniumDriver - INFO: Element Found
+11/08/2023 04:48:20 PM - SeleniumDriver - INFO: Cannot click on the element with locator: //div[normalize-space()='Amount'] locatorType: xpath
+11/08/2023 04:48:24 PM - SeleniumDriver - INFO: Element not found
+11/08/2023 04:48:24 PM - SeleniumDriver - INFO: Cannot click on the element with locator: //div[@x-placement='right-start']//li[@value='Descending'][normalize-space()='Descending'] locatorType: xpath
+11/08/2023 04:48:57 PM - SeleniumDriver - INFO: Element Found
+11/08/2023 04:48:57 PM - SeleniumDriver - INFO: Sent data on element with locator: //input[@placeholder='Email Id'] locatorType: xpath
+11/08/2023 04:48:57 PM - SeleniumDriver - INFO: Element Found
+11/08/2023 04:48:57 PM - SeleniumDriver - INFO: Sent data on element with locator: //input[@placeholder='Password'] locatorType: xpath
+11/08/2023 04:48:57 PM - SeleniumDriver - INFO: Element Found
+11/08/2023 04:48:57 PM - SeleniumDriver - INFO: Clicked on element with locator: //div[@class='button'][normalize-space()='Login'] locatorType: xpath
+11/08/2023 04:48:59 PM - SeleniumDriver - INFO: Element Found
+11/08/2023 04:48:59 PM - SeleniumDriver - INFO: Clicked on element with locator: //a[@href='/leadmanagement'] locatorType: xpath
+11/08/2023 04:48:59 PM - SeleniumDriver - INFO: Element Found
+11/08/2023 04:48:59 PM - SeleniumDriver - INFO: Clicked on element with locator: //div[contains(text(),'Sort')] locatorType: xpath
+11/08/2023 04:48:59 PM - SeleniumDriver - INFO: Element Found
+11/08/2023 04:49:00 PM - SeleniumDriver - INFO: Cannot click on the element with locator: //div[normalize-space()='Amount'] locatorType: xpath
+11/08/2023 04:49:04 PM - SeleniumDriver - INFO: Element not found
+11/08/2023 04:49:04 PM - SeleniumDriver - INFO: Cannot click on the element with locator: //div[@x-placement='right-start']//li[@value='Descending'][normalize-space()='Descending'] locatorType: xpath
+11/08/2023 04:50:32 PM - SeleniumDriver - INFO: Element not found
+11/08/2023 04:50:32 PM - SeleniumDriver - INFO: Cannot send data on the element with locator: //input[@placeholder='Email Id'] locatorType: xpath
+11/08/2023 04:50:34 PM - SeleniumDriver - INFO: Element not found
+11/08/2023 04:50:34 PM - SeleniumDriver - INFO: Cannot send data on the element with locator: //input[@placeholder='Password'] locatorType: xpath
+11/08/2023 04:50:36 PM - SeleniumDriver - INFO: Element not found
+11/08/2023 04:50:36 PM - SeleniumDriver - INFO: Cannot click on the element with locator: //div[@class='button'][normalize-space()='Login'] locatorType: xpath
+11/08/2023 04:51:04 PM - SeleniumDriver - INFO: Element Found
+11/08/2023 04:51:04 PM - SeleniumDriver - INFO: Sent data on element with locator: //input[@placeholder='Email Id'] locatorType: xpath
+11/08/2023 04:51:04 PM - SeleniumDriver - INFO: Element Found
+11/08/2023 04:51:04 PM - SeleniumDriver - INFO: Sent data on element with locator: //input[@placeholder='Password'] locatorType: xpath
+11/08/2023 04:51:04 PM - SeleniumDriver - INFO: Element Found
+11/08/2023 04:51:04 PM - SeleniumDriver - INFO: Clicked on element with locator: //div[@class='button'][normalize-space()='Login'] locatorType: xpath
+11/08/2023 04:51:06 PM - SeleniumDriver - INFO: Element Found
+11/08/2023 04:51:06 PM - SeleniumDriver - INFO: Clicked on element with locator: //a[@href='/leadmanagement'] locatorType: xpath
+11/08/2023 04:51:07 PM - SeleniumDriver - INFO: Element Found
+11/08/2023 04:51:07 PM - SeleniumDriver - INFO: Clicked on element with locator: //div[contains(text(),'Sort')] locatorType: xpath
+11/08/2023 04:51:07 PM - SeleniumDriver - INFO: Element Found
+11/08/2023 04:51:10 PM - SeleniumDriver - INFO: Cannot click on the element with locator: //div[normalize-space()='Amount'] locatorType: xpath
+11/08/2023 04:51:32 PM - SeleniumDriver - INFO: Element Found
+11/08/2023 04:51:32 PM - SeleniumDriver - INFO: Sent data on element with locator: //input[@placeholder='Email Id'] locatorType: xpath
+11/08/2023 04:51:32 PM - SeleniumDriver - INFO: Element Found
+11/08/2023 04:51:32 PM - SeleniumDriver - INFO: Sent data on element with locator: //input[@placeholder='Password'] locatorType: xpath
+11/08/2023 04:51:32 PM - SeleniumDriver - INFO: Element Found
+11/08/2023 04:51:32 PM - SeleniumDriver - INFO: Clicked on element with locator: //div[@class='button'][normalize-space()='Login'] locatorType: xpath
+11/08/2023 04:51:34 PM - SeleniumDriver - INFO: Element Found
+11/08/2023 04:51:34 PM - SeleniumDriver - INFO: Clicked on element with locator: //a[@href='/leadmanagement'] locatorType: xpath
+11/08/2023 04:51:34 PM - SeleniumDriver - INFO: Element Found
+11/08/2023 04:51:34 PM - SeleniumDriver - INFO: Clicked on element with locator: //div[contains(text(),'Sort')] locatorType: xpath
+11/08/2023 04:51:34 PM - SeleniumDriver - INFO: Waiting for maximum :: 10 :: seconds for element to be clickable
+11/08/2023 04:51:44 PM - SeleniumDriver - INFO: Element not appeared on the web page
+11/08/2023 04:59:21 PM - SeleniumDriver - INFO: Element Found
+11/08/2023 04:59:21 PM - SeleniumDriver - INFO: Sent data on element with locator: //input[@placeholder='Email Id'] locatorType: xpath
+11/08/2023 04:59:21 PM - SeleniumDriver - INFO: Element Found
+11/08/2023 04:59:22 PM - SeleniumDriver - INFO: Sent data on element with locator: //input[@placeholder='Password'] locatorType: xpath
+11/08/2023 04:59:22 PM - SeleniumDriver - INFO: Element Found
+11/08/2023 04:59:22 PM - SeleniumDriver - INFO: Clicked on element with locator: //div[@class='button'][normalize-space()='Login'] locatorType: xpath
+11/08/2023 04:59:24 PM - SeleniumDriver - INFO: Element Found
+11/08/2023 04:59:24 PM - SeleniumDriver - INFO: Clicked on element with locator: //a[@href='/leadmanagement'] locatorType: xpath
+11/08/2023 04:59:24 PM - SeleniumDriver - INFO: Element Found
+11/08/2023 04:59:24 PM - SeleniumDriver - INFO: Clicked on element with locator: //div[contains(text(),'Sort')] locatorType: xpath
+11/08/2023 04:59:24 PM - SeleniumDriver - INFO: Waiting for maximum :: 10 :: seconds for element to be clickable
+11/08/2023 04:59:24 PM - SeleniumDriver - INFO: Locator type //div[normalize-space()='amount'] not correct/supported
+11/08/2023 04:59:24 PM - SeleniumDriver - INFO: Element not found
+11/08/2023 04:59:24 PM - SeleniumDriver - INFO: Element not appeared on the web page
+11/08/2023 05:04:38 PM - SeleniumDriver - INFO: Element Found
+11/08/2023 05:04:38 PM - SeleniumDriver - INFO: Sent data on element with locator: //input[@placeholder='Email Id'] locatorType: xpath
+11/08/2023 05:04:38 PM - SeleniumDriver - INFO: Element Found
+11/08/2023 05:04:38 PM - SeleniumDriver - INFO: Sent data on element with locator: //input[@placeholder='Password'] locatorType: xpath
+11/08/2023 05:04:38 PM - SeleniumDriver - INFO: Element Found
+11/08/2023 05:04:38 PM - SeleniumDriver - INFO: Clicked on element with locator: //div[@class='button'][normalize-space()='Login'] locatorType: xpath
+11/08/2023 05:04:43 PM - SeleniumDriver - INFO: Element not found
+11/08/2023 05:04:43 PM - SeleniumDriver - INFO: Cannot click on the element with locator: //a[@href='/leadmanagement'] locatorType: xpath
+11/08/2023 05:04:46 PM - SeleniumDriver - INFO: Element not found
+11/08/2023 05:04:46 PM - SeleniumDriver - INFO: Cannot click on the element with locator: //div[contains(text(),'Sort')] locatorType: xpath
+11/08/2023 05:04:46 PM - SeleniumDriver - INFO: Waiting for maximum :: 10 :: seconds for element to be clickable
+11/08/2023 05:04:58 PM - SeleniumDriver - INFO: Element not appeared on the web page
+11/08/2023 05:05:35 PM - SeleniumDriver - INFO: Element Found
+11/08/2023 05:05:35 PM - SeleniumDriver - INFO: Sent data on element with locator: //input[@placeholder='Email Id'] locatorType: xpath
+11/08/2023 05:05:35 PM - SeleniumDriver - INFO: Element Found
+11/08/2023 05:05:35 PM - SeleniumDriver - INFO: Sent data on element with locator: //input[@placeholder='Password'] locatorType: xpath
+11/08/2023 05:05:35 PM - SeleniumDriver - INFO: Element Found
+11/08/2023 05:05:36 PM - SeleniumDriver - INFO: Clicked on element with locator: //div[@class='button'][normalize-space()='Login'] locatorType: xpath
+11/08/2023 05:05:38 PM - SeleniumDriver - INFO: Element Found
+11/08/2023 05:05:38 PM - SeleniumDriver - INFO: Clicked on element with locator: //a[@href='/leadmanagement'] locatorType: xpath
+11/08/2023 05:05:38 PM - SeleniumDriver - INFO: Element Found
+11/08/2023 05:05:38 PM - SeleniumDriver - INFO: Clicked on element with locator: //div[contains(text(),'Sort')] locatorType: xpath
+11/08/2023 05:05:38 PM - SeleniumDriver - INFO: Waiting for maximum :: 10 :: seconds for element to be clickable
+11/08/2023 05:05:38 PM - SeleniumDriver - INFO: Element appeared on the web page
+11/08/2023 05:06:44 PM - SeleniumDriver - INFO: Element Found
+11/08/2023 05:06:44 PM - SeleniumDriver - INFO: Sent data on element with locator: //input[@placeholder='Email Id'] locatorType: xpath
+11/08/2023 05:06:44 PM - SeleniumDriver - INFO: Element Found
+11/08/2023 05:06:44 PM - SeleniumDriver - INFO: Sent data on element with locator: //input[@placeholder='Password'] locatorType: xpath
+11/08/2023 05:06:44 PM - SeleniumDriver - INFO: Element Found
+11/08/2023 05:06:44 PM - SeleniumDriver - INFO: Clicked on element with locator: //div[@class='button'][normalize-space()='Login'] locatorType: xpath
+11/08/2023 05:06:46 PM - SeleniumDriver - INFO: Element Found
+11/08/2023 05:06:46 PM - SeleniumDriver - INFO: Clicked on element with locator: //a[@href='/leadmanagement'] locatorType: xpath
+11/08/2023 05:06:47 PM - SeleniumDriver - INFO: Element Found
+11/08/2023 05:06:47 PM - SeleniumDriver - INFO: Clicked on element with locator: //div[contains(text(),'Sort')] locatorType: xpath
+11/08/2023 05:06:47 PM - SeleniumDriver - INFO: Waiting for maximum :: 10 :: seconds for element to be clickable
+11/08/2023 05:06:47 PM - SeleniumDriver - INFO: Element appeared on the web page

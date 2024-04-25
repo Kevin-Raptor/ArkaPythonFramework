@@ -110,10 +110,12 @@ class SeleniumDriver():
                                  ignored_exceptions=[NoSuchElementException,
                                                      ElementNotVisibleException,
                                                      ElementNotSelectableException])
-            element = wait.until(EC.element_to_be_clickable((byType,
+            element = wait.until(EC.presence_of_element_located((byType,
                                                              locator)))
+            print("Element appeared on the web page")
             self.log.info("Element appeared on the web page")
         except:
+            print("Element not appeared on the web page")
             self.log.info("Element not appeared on the web page")
             print_stack()
         return element

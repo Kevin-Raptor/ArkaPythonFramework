@@ -81,14 +81,8 @@ class CreateLeadPage(SeleniumDriver):
         self.sendKeys('1111',self.x_path_map_select,locatorType="xpath")
         self.selectFirstItemOfDropDown(self.x_path_map_select,self.x_path_map_select_list,locatorType="xpath")
 
-        self.sendKeys('0',self.x_path_deal_value,locatorType="xpath")
+        self.sendKeys('10000',self.x_path_deal_value,locatorType="xpath")
 
-
-
-      
-      
-
-        
         self.elementClick(self.x_path_create_button,locatorType='xpath')
 
         time.sleep(10)
